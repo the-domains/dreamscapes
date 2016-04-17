@@ -1,7 +1,7 @@
 name: dreamscapes
 favicon: null
 layout_spectrum: 0.9161655877251178
-typography_spectrum: 0.48097603768110275
+typography_spectrum: 0.12775
 title: dreamscapes
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.18243798264302313
+  brandStrength: 0.3125
   lightness: 0.4188315162900835
   saturation: 0.4332526109647006
   rhythmicContrast: 0.482872316846624
